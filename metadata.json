@@ -1,0 +1,6 @@
+{
+  "name": "Lokal Post",
+  "description": "WhatsApp-styled local community photo sharing app within 5km, featuring real-time GPS location discovery, nearby feeds, and instant photo posting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
